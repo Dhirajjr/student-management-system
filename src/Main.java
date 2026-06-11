@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Student Management System");
         System.out.println("Add Student Feature");
         System.out.println("Delete Student Feature");
+        System.out.println("Welcome to SMS");
     }
 }
