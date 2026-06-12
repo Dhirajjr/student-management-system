@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Add Student Feature");
         System.out.println("Delete Student Feature");
         System.out.println("Update Student Feature");
+        System.out.println("Search Student Feature");
     }
 }
